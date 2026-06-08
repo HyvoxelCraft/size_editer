@@ -33,3 +33,6 @@ All commands require the `size_edit` privilege:
 - `size_edit` - Allows players to use size commands
 - Grant with `/grant <player> size_edit`
 - Revoke with `/revoke <player> size_edit`
+
+## credits
+The mod is developed in under CodeX devlopment department ( multicraft & luanti )
